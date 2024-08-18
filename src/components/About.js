@@ -1,6 +1,8 @@
 import React from 'react';
 import { FaLaptopCode, FaCloud, FaLightbulb } from 'react-icons/fa';
 
+import Resume from '../assets/Resume.pdf'
+
 const About = () => {
   return (
     <section id="about" className="scroll-margin-top-20 pt-20 py-16 bg-gray-100 text-gray-800">
@@ -59,10 +61,10 @@ const About = () => {
               </p>
               <div className="text-center">
                 <a
-                  href="/path-to-resume.pdf" // Replace with the actual link to your resume
-                  target="_blank"
-                  rel="noopener noreferrer"
+                  href={Resume}
+                  alt="Resume"
                   className="bg-custom-blue hover:bg-blue-700 text-white font-bold py-3 px-8 rounded-full text-lg transition duration-300"
+                  download="Dhruvi Kunvarani Resume"
                 >
                   Download My Resume
                 </a>

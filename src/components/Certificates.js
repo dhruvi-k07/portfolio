@@ -14,28 +14,28 @@ const certificates = [
     organization: "LinkedIn Learning",
     date: "February 2024",
     details: "An introductory course on Spark SQL and DataFrames for big data processing.",
-    link: "#"
+    link: "https://www.linkedin.com/learning/certificates/bd7064a51c7b6150a65e625f8d90fc3636ab28d397b4966696d4a70684c0339f?trk=share_certificate"
   },
   {
     title: "Learning Hadoop",
     organization: "LinkedIn Learning",
     date: "February 2024",
     details: "A foundational course on Hadoop architecture and its applications in big data.",
-    link: "#"
+    link: "https://www.linkedin.com/learning/certificates/24fcef98ef1f2513d0561b03c9ffb195aac44158c9000f36326519d773cc4b0a?trk=share_certificate"
   },
   {
     title: "Microservices: Design Patterns",
     organization: "LinkedIn Learning",
     date: "December 2023",
     details: "This course covers common design patterns for building microservices.",
-    link: "#"
+    link: "https://www.linkedin.com/learning/certificates/25ecbac04aa5a7494d66970fcb3755ab49dfda9a251d61eba18cd1cfd5148c2b?trk=share_certificate"
   },
   {
     title: "Web Security: OAuth and OpenID Connect",
     organization: "LinkedIn Learning",
     date: "December 2023",
     details: "This course covers security protocols and practices for web authentication.",
-    link: "#"
+    link: "https://www.linkedin.com/learning/certificates/4b7ad58e041c155efffc650f408c91e1e7a6abbf4fbc4e5c487cfece8a8a354f?trk=share_certificate"
   },
   {
     title: "JavaScript Algorithms and Data Structures",

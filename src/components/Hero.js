@@ -33,7 +33,7 @@ const Hero = () => {
           </p>
           <div className="flex justify-center md:justify-start space-x-6">
             <a
-              href="https://www.linkedin.com/in/dhruvikunvarani/"
+              href="https://www.linkedin.com/in/dhruvi-kunvarani-31b550197/"
               target="_blank"
               rel="noopener noreferrer"
               className="text-white hover:text-blue-400 text-3xl"
@@ -41,7 +41,7 @@ const Hero = () => {
               <FaLinkedin />
             </a>
             <a
-              href="https://github.com/dhruvikunvarani"
+              href="https://github.com/dhruvi-k07"
               target="_blank"
               rel="noopener noreferrer"
               className="text-white hover:text-gray-400 text-3xl"
@@ -59,13 +59,13 @@ const Hero = () => {
               <p>Projects Completed</p>
             </div>
             <div className="text-center">
-              <h2 className="text-2xl font-bold">5</h2>
+              <h2 className="text-2xl font-bold">5+</h2>
               <p>Certifications</p>
             </div>
           </div>
         </div>
       </div>
-      <div className="absolute inset-0 bg-gradient-to-t from-transparent to-gray-900 opacity-50 z-0"></div> {/* Optional overlay */}
+      <div className="absolute inset-0 bg-gradient-to-t from-transparent to-gray-900 opacity-50 z-0"></div> 
     </section>
   );
 };

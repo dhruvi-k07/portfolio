@@ -6,19 +6,19 @@ const projects = {
       title: "SubscriptEase",
       description: "A subscription management system that interacts with third-party applications.",
       technologies: "MERN Stack (MongoDB, Express.js, React, Node.js)",
-      link: "#"
+      link: "https://github.com/dhruvi-k07/subscript-ease"
     },
     {
       title: "Ecorevive",
       description: "An e-commerce recycle website which sells and buys recycled products.",
       technologies: "Django, MySQL, HTML, CSS",
-      link: "#"
+      link: "https://github.com/haydencordeiro/EcoRevive"
     },
     {
       title: "Cozy Rental",
       description: "Developed a comprehensive real estate project with seamless integration of various technologies.",
       technologies: "Java (Spring Boot), ReactJS, MongoDB, Selenium",
-      link: "#"
+      link: "https://github.com/saravananbcs/realestate-react-ui"
     }
   ],
   "Machine Learning": [
@@ -26,13 +26,13 @@ const projects = {
       title: "Coffee Bean Project",
       description: "A project where we took a Coffee bean dataset and trained a model to check the roast level and recommend methods for perfect roasting.",
       technologies: "HTML, CSS, JavaScript, Machine Learning",
-      link: "#"
+      link: "https://github.com/dhruvi-k07/coffee-bean"
     },
     {
       title: "CareerForge Hub",
       description: "Led the development of a career guidance platform tailored for IT students.",
       technologies: "Python, Flask, ReactJS, NextJS, MongoDB, Machine Learning",
-      link: "#"
+      link: "https://github.com/Naman-Goyal151101/CareerForgeHub"
     }
   ],
   "Systems Programming": [
@@ -40,7 +40,7 @@ const projects = {
       title: "Socket Programming Project",
       description: "Designed and implemented a multi-threaded server application in C++ that connected with multiple client applications.",
       technologies: "C++, Socket Programming, Multi-threading, Linux",
-      link: "#"
+      link: "https://github.com/dhruvi-k07/Socket_Programming"
     }
   ],
   "Personal Projects": [
@@ -48,7 +48,7 @@ const projects = {
       title: "Simple Todo List API in Rust",
       description: "Developed a basic REST API for managing a todo list, implementing CRUD operations with efficient handling of HTTP requests and responses.",
       technologies: "Rust, Rocket framework, SQLite",
-      link: "#"
+      link: "https://github.com/dhruvi-k07/rust-todo-app"
     }
   ]
 };
