@@ -29,7 +29,7 @@ const Contact = () => {
             <h3 className="text-xl font-semibold mb-2">Connect on LinkedIn</h3>
             <p className="text-gray-600 mb-4">Let's network professionally and stay connected for future opportunities.</p>
             <a
-              href="https://www.linkedin.com/in/dhruvikunvarani"
+              href="https://www.linkedin.com/in/dhruvi-kunvarani-31b550197/"
               target="_blank"
               rel="noopener noreferrer"
               className="bg-custom-blue text-white py-2 px-4 rounded-full shadow hover:bg-blue-800 transition-colors duration-300"

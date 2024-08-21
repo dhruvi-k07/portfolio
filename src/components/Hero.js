@@ -1,6 +1,6 @@
 import React from 'react';
 import {ReactTyped} from 'react-typed';
-import { FaLinkedin, FaGithub } from 'react-icons/fa';
+import { FaLinkedin, FaGithub, FaMedium } from 'react-icons/fa';
 import profileImage from '../assets/profileImage.JPG';
 
 const Hero = () => {
@@ -48,6 +48,9 @@ const Hero = () => {
             >
               <FaGithub />
             </a>
+            <a href="https://medium.com/@dkunvarani07" target="_blank" rel="noopener noreferrer" className="text-white hover:text-gray-400 text-3xl">
+            <FaMedium size={30} />
+          </a>
           </div>
           <div className="flex justify-center md:justify-start space-x-8 mt-6">
             <div className="text-center">
