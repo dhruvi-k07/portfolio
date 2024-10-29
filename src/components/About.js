@@ -1,7 +1,7 @@
 import React from 'react';
 import { FaLaptopCode, FaCloud, FaLightbulb } from 'react-icons/fa';
 
-import Resume from '../assets/Resume.pdf'
+import Resume from '../assets/UpdatedResume.pdf'
 
 const About = () => {
   return (

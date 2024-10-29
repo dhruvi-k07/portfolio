@@ -16,8 +16,31 @@ const ProfessionalExperience = () => {
         "Collaborated with the backend team to design and implement efficient database schemas in MongoDB and integrate third-party APIs.",
         "Played a crucial role in setting up and managing CI/CD pipelines on AWS, ensuring smooth and automated deployments."
       ]
+    },
+    {
+      role: "Software Developer",
+      company: "Semper8 International Ltd, Toronto, ON, Canada",
+      dates: "Sept 2024 - Dec 2024",
+      technologies: "NestJS, React Native, Redis, AWS, GIT, CI/CD Pipelines, PayPal API",
+      responsibilities: [
+        "Developed and maintained scalable backend services using NestJS, Redis, and AWS to optimize performance and improve system reliability.",
+        "Integrated PayPal for seamless payment processing, enhancing user experience and streamlining transaction workflows.",
+        "Set up and managed CI/CD pipelines for automated deployment, ensuring smooth and efficient release cycles.",
+        "Collaborated with cross-functional teams to build and maintain APIs, improving backend functionality and supporting mobile applications built on React Native.",
+      ]
+    },
+    {
+      role: "Website Developer",
+      company: "University of Windsor, Windsor, ON, Canada",
+      dates: "Sept 2024 - Dec 2024",
+      technologies: "Wordpress, PHP, MySQL",
+      responsibilities: [
+        "Collaborated with Professor Catherine’s research lab to develop a custom website, focusing on specific requirements and ensuring alignment with academic objectives.",
+        "Gained valuable experience in requirement gathering, translating research needs into a functional and user-friendly web platform.",
+        "Utilized WordPress, PHP, and MySQL for custom development, enabling dynamic content management and seamless database integration.",
+        "Worked closely with the research team to ensure the website accurately represents the lab's mission and research outputs.",
+      ]
     }
-    // Add more experiences here
   ];
 
   const [activeTab, setActiveTab] = useState(0);
