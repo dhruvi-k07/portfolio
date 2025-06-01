@@ -3,9 +3,20 @@ import React, { useState } from 'react';
 const ProfessionalExperience = () => {
   const experiences = [
     {
+      role: "Freelance Software Development Engineer (SDE)",
+      company: "Agentiiv",
+      dates: "Jan 2025 - March 2025",
+      technologies: "ReactJS, NodeJS, ExpressJS, MongoDB, AWS, GIT, JIRA, CI/CD Pipelines",
+      responsibilities: [
+        "Collaborated directly with CEOs and CTOs to design, develop, and maintain a cutting-edge platform using ReactJS for the frontend and Node.js for the backend.",
+        "Engineered robust RESTful APIs to ensure seamless integration and optimal performance.",
+        "Established and managed efficient CI/CD pipelines, streamlining deployment processes and continuous improvement of the platform.",
+      ]
+    },
+    {
       role: "Software Development Engineer (SDE)",
       company: "SocialPilot Solutions LLP, Lewes, Delaware, United States",
-      dates: "Dec 2021 - Present",
+      dates: "Dec 2021 - Dec 2024",
       technologies: "ReactJS, NodeJS, ExpressJS, MongoDB, AWS, GIT, JIRA, CI/CD Pipelines",
       responsibilities: [
         "Spearheaded the development of innovative web and mobile solutions, implementing targeted UI/UX enhancements with ReactJS and React Native.",
